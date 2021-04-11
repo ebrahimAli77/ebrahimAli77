@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning web and app development
 - 💞️ I’m looking to collaborate on learning journey
+- ;) And here is my portfolio https://ebrahimmagladi102.000webhostapp.com/
 - 📫 How to reach me @ebrahimalmagladi@gmail.com
 
 <!---
